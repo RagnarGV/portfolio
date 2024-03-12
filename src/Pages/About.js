@@ -110,7 +110,7 @@ export const About = () => {
             <span className="text-xl ml-24 text-white">{"[ "}</span>
 
             {
-              "'HTML/CSS/JS', 'React', 'Bootstrap/Tailwind', 'SCSS/Less', 'npm', 'Angular', 'CodeIgnitor', 'Laravel', 'C#', 'ASP.Net', 'Firebase', 'PHP', 'MySQL/SQLServer/Oracle', 'Premiere', 'AWS', 'TypeScript'"
+              "'HTML/CSS/JS', 'React', 'Bootstrap/Tailwind', 'SCSS/Less', 'npm', 'Angular', 'CodeIgnitor', 'Laravel', 'C#', 'ASP.Net', 'Firebase', 'PHP', 'MySQL/SQLServer/Oracle', 'Premiere', 'AWS', 'TypeScript', 'RESTful APIs'"
             }
             <span className="text-xl text-white">{" ]"}</span>
           </p>
