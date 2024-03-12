@@ -1,0 +1,26 @@
+
+.font-Comfortaa{
+  font-family: 'Comfortaa', sans-serif;
+}
+
+.font-Courier{
+    font-family: 'Courier Prime';
+  }
+.codeclass{
+    color: purple;
+    font-family: 'Courier Prime';
+}
+.variable{
+    color: yellow;
+    font-family: 'Courier Prime';
+}
+.content{
+    color: skyblue;
+    font-family: 'Courier Prime';
+}
+.vl {
+  border-right: 1px solid rgb(55 65 81);
+  position: absolute;
+  height:66%;
+  left: 10%;
+}

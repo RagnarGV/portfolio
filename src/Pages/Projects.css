@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=DotGothic16&display=swap");
+.light {
+  background-color: azure;
+  /* background-image: url('../assets/endless-constellation.png'); */
+  width: 100vw;
+  min-height: 100vh;
+}
+.font-DotGothic16 {
+  font-family: "DotGothic16";
+}
+.bgimage {
+  background-image: url("../assets/PolygonLuminary.svg");
+  box-shadow: 0 0 8px 5px rgb(3 7 18);
+}
+.bgProjectimage {
+  background-image: url("../assets/NonAnimatedShape.svg");
+  box-shadow: 0 0 8px 5px rgb(3 7 18);
+}
+.bgAboutimage {
+  background-image: url("../assets/IconGrid.svg");
+  box-shadow: 0 0 8px 5px rgb(3 7 18);
+}
+.darke {
+  width: 100vw;
+  min-height: 100vh;
+}
+.toTop {
+  margin-top: -1.5%;
+  background-color: #133a64;
+}
+.bg-projectBlue {
+  background-color: #0b2239;
+}
+.bg-AboutBlue {
+  background-color: #0e2a47;
+}
+.toTopGray {
+  margin-top: -1.5%;
+  background-color: rgb(17 24 39);
+}
+.bg-ContactBlue {
+  background-color: rgb(17 24 39);
+}
+.toTopGray950 {
+  margin-top: -1.5%;
+  background-color: rgb(3 7 18);
+}
+.btn-hover-zoom {
+  height: auto; /* Modify this according to your need */
+  overflow: hidden; /* Removing this will break the effects */
+}
+.btn-hover-zoom {
+  transition: transform 0.3s ease;
+}
+.btn-hover-zoom:hover {
+  transform: scale(1.2);
+}
+html {
+  scroll-behavior: smooth;
+}
+.divEdgeBlur {
+  box-shadow: 0 0 8px 8px rgb(3 7 18) inset;
+}
+.card1 {
+  background: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.8) 15%,
+      rgba(0, 0, 0, 0.4) 70%
+    ),
+    url(../assets/gbshse.png);
+}
+
+.card2 {
+  background: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.8) 15%,
+      rgba(0, 0, 0, 0.4) 70%
+    ),
+    url(../assets/gbshseAp.png);
+}
+.font-Comfortaa {
+  font-family: "Comfortaa", sans-serif;
+}
+.card3 {
+  background: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.8) 15%,
+      rgba(0, 0, 0, 0.4) 70%
+    ),
+    url(../assets/Spotify.png);
+}
+.card4 {
+  background: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.8) 15%,
+      rgba(0, 0, 0, 0.4) 70%
+    ),
+    url(../assets/gamestop1.png);
+}
+.card5 {
+  background: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.8) 15%,
+      rgba(0, 0, 0, 0.4) 70%
+    ),
+    url(../assets/GBSHSE-School-Registration-Portal.png);
+}
+
+.overlay {
+  margin-left: 15%;
+  margin-top: 8%;
+  background: white;
+  position: absolute;
+  width: 40%;
+  height: 25%;
+  top: 0;
+}
+.overlay2 {
+  margin-left: 30%;
+  margin-top: 22%;
+  background: white;
+  position: absolute;
+  width: 40%;
+  height: 25%;
+  top: 0;
+}
+.overlay3 {
+  margin-left: 10%;
+  margin-top: 36%;
+  background: white;
+  position: absolute;
+  width: 40%;
+  height: 25%;
+  top: 0;
+}
+.card-text {
+  transform-style: preserve-3d;
+  transform: translateZ(2rem);
+  transition: opacity 0.3s linear;
+  text-shadow: 0 0.1rem 1rem #000;
+  opacity: 1;
+}
+.mr-card {
+  margin-right: 10rem;
+}
+@keyframes ani {
+  0% {
+    width: 0%;
+  }
+  25% {
+    width: 25%;
+  }
+  50% {
+    width: 50%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+.ani {
+  animation-name: ani;
+  animation-duration: 2s;
+}

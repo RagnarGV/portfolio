@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Baumans&display=swap');
+.font-Comfortaa{
+  font-family: 'Comfortaa', sans-serif;
+}
+.font-Baumans{
+  font-family: 'Baumans';
+}
+.font-Courier{
+    font-family: 'Courier Prime';
+  }
+.codeclass{
+    color: purple;
+    font-family: 'Courier Prime';
+}
+.variable{
+    color: yellow;
+    font-family: 'Courier Prime';
+}
+.content{
+    color: skyblue;
+    font-family: 'Courier Prime';
+}

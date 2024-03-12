@@ -1,0 +1,25 @@
+
+.light{
+    background-color: white;
+    width: 100vw;
+    min-height: 100vh;
+}
+.dark{
+    background-color: rgb(3 7 18);
+    width: 100vw;
+    min-height: 100vh;
+}
+.btn-hover-zoom {
+    height: auto; /* Modify this according to your need */
+    overflow: hidden; /* Removing this will break the effects */
+  }
+  .btn-hover-zoom {
+    transition: transform .3s ease;
+  }
+  .btn-hover-zoom:hover {
+    transform: scale(1.2);
+  }
+
+
+
+  

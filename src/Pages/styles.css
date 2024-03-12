@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+.font-DotGothic16 {
+  font-family: 'DotGothic16'
+}
+.active{
+    color:red;
+}
+.btn-hover-zoom {
+    height: auto; /* Modify this according to your need */
+    overflow: hidden; /* Removing this will break the effects */
+  }
+  .btn-hover-zoom {
+    transition: transform .3s ease;
+  }
+  .btn-hover-zoom:hover {
+    transform: scale(1.2);
+  }
+
+
+body .navlight{
+  background-color: azure;
+  /* background-image: url('../assets/endless-constellation.png'); */
+}
+body .navdark{
+  background-color: rgb(17 24 39);
+  /* background-image: url('../assets/endless-constellation.png'); */
+}
