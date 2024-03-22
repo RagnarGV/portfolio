@@ -49,7 +49,7 @@ export const About = () => {
           <p className="text-xl  sm:pl-96 variable hover:bg-gray-800">
             <span className="text-xl ml-24 text-white">{"{"}</span>
             {
-              "'2017-2020': 'Maharashta Institute of Technology - Bachelor's Degree (BBA-CA), Computer Applications'"
+              "'2017-2020': 'Maharashtra Institute of Technology - Bachelor's Degree (BBA-CA), Computer Applications'"
             }
             <span className="text-xl text-white">{"}"}</span>
           </p>
