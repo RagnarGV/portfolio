@@ -209,7 +209,7 @@ export const Projects = () => {
                   id="desc2"
                   className="mt-8 p-6 card-text font-normal text-white dark:text-gray-100"
                 >
-                  Official website for Goa State Board of India
+                  A personalized and revamped design of GameStop website.
                 </p>
               </Tilt>
             </Slide>

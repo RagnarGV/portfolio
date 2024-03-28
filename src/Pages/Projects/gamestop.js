@@ -68,7 +68,11 @@ export function Gamestop() {
               </span>
             </h3>
             <p className="text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">
-              A personalized and revamped design of GameStop website.{" "}
+              GameStop website. Focused on user-centric design, it aims to
+              provide tailored recommendations, seamless navigation, and
+              interactive features to enhance every gamer's shopping adventure.
+              Join me in creating a platform that revolutionizes how enthusiasts
+              discover and engage with their favorite titles.
             </p>
           </div>
         </div>
