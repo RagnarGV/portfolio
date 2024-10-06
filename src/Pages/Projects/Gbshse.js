@@ -106,6 +106,11 @@ export function Gbshse() {
                   anyone. Students can download new curriculum or study
                   material, data and files for all the years available.{" "}
                 </p>
+                <a href="https://www.gbshse.in/#/home" target="_blank">
+                  <button className="bg-white rounded-md text-xl font-bold w-24 h-10 hover:scale-110 transition ease-in-out duration-500 mt-8">
+                    Visit
+                  </button>
+                </a>
               </div>
             </div>
           </div>
