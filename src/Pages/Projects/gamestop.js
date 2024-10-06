@@ -74,6 +74,11 @@ export function Gamestop() {
               Join me in creating a platform that revolutionizes how enthusiasts
               discover and engage with their favorite titles.
             </p>
+            <a href="https://game-stop-sigma.vercel.app/home" target="_blank">
+              <button className="bg-white rounded-md text-xl font-bold w-24 h-10 hover:scale-110 transition ease-in-out duration-500 mt-8">
+                Visit
+              </button>
+            </a>
           </div>
         </div>
         <div className="sm:grid transition-all ease-in duration-900 grid-cols-3 gap-4 right-0">
