@@ -92,8 +92,8 @@ export const Projects = () => {
           >
             <Slide triggerOnce duration={500} direction="right">
               <Tilt
-                scale={1.2}
-                transitionSpeed={2500}
+                scale={1.1}
+                transitionSpeed={1000}
                 className="card1 card-text bg-no-repeat bg-cover block shadow-2xl-all rounded-lg"
               >
                 <div
@@ -135,8 +135,8 @@ export const Projects = () => {
           >
             <Slide triggerOnce duration={500} direction="right">
               <Tilt
-                scale={1.2}
-                transitionSpeed={2500}
+                scale={1.1}
+                transitionSpeed={1000}
                 className={`card2 card-text bg-no-repeat bg-cover block shadow-2xl rounded-lg`}
               >
                 <div
@@ -180,8 +180,8 @@ export const Projects = () => {
           >
             <Slide triggerOnce duration={500}>
               <Tilt
-                scale={1.2}
-                transitionSpeed={2500}
+                scale={1.1}
+                transitionSpeed={1000}
                 className="card4 h-full w-64 card-text bg-no-repeat bg-cover block shadow-2xl rounded-lg"
               >
                 <div
@@ -220,8 +220,8 @@ export const Projects = () => {
           >
             <Slide triggerOnce duration={500}>
               <Tilt
-                scale={1.2}
-                transitionSpeed={2500}
+                scale={1.1}
+                transitionSpeed={1000}
                 className="card3 card-text bg-no-repeat bg-cover block shadow-2xl-all rounded-lg"
               >
                 <div
@@ -261,8 +261,8 @@ export const Projects = () => {
           >
             <Slide triggerOnce duration={500}>
               <Tilt
-                scale={1.2}
-                transitionSpeed={2500}
+                scale={1.1}
+                transitionSpeed={1000}
                 className="card5 card-text bg-no-repeat bg-cover block shadow-2xl-all rounded-lg"
               >
                 <div
